@@ -1,0 +1,12 @@
+F:\visualstudio2012\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+F:\visualstudio2012\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+F:\visualstudio2012\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+F:\visualstudio2012\Projects\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+F:\visualstudio2012\Projects\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+E:\visualstudio2012\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+E:\visualstudio2012\Projects\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+E:\visualstudio2012\Projects\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+E:\visualstudio2012\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+E:\visualstudio2012\Projects\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+E:\visualstudio2012\Projects\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
