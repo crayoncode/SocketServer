@@ -1,0 +1,12 @@
+F:\visualstudio2012\Projects\SocketServer\SocketUDPServer\bin\Debug\SocketUDPServer.exe.config
+F:\visualstudio2012\Projects\SocketServer\SocketUDPServer\bin\Debug\SocketUDPServer.exe
+F:\visualstudio2012\Projects\SocketServer\SocketUDPServer\bin\Debug\SocketUDPServer.pdb
+F:\visualstudio2012\Projects\SocketServer\SocketUDPServer\obj\Debug\SocketUDPServer.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\SocketServer\SocketUDPServer\obj\Debug\SocketUDPServer.exe
+F:\visualstudio2012\Projects\SocketServer\SocketUDPServer\obj\Debug\SocketUDPServer.pdb
+E:\visualstudio2012\Projects\SocketServer\SocketUDPServer\bin\Debug\SocketUDPServer.exe.config
+E:\visualstudio2012\Projects\SocketServer\SocketUDPServer\obj\Debug\SocketUDPServer.exe
+E:\visualstudio2012\Projects\SocketServer\SocketUDPServer\obj\Debug\SocketUDPServer.pdb
+E:\visualstudio2012\Projects\SocketServer\SocketUDPServer\bin\Debug\SocketUDPServer.exe
+E:\visualstudio2012\Projects\SocketServer\SocketUDPServer\bin\Debug\SocketUDPServer.pdb
+E:\visualstudio2012\Projects\SocketServer\SocketUDPServer\obj\Debug\SocketUDPServer.csprojResolveAssemblyReference.cache
